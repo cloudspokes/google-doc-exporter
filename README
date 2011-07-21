@@ -1,0 +1,12 @@
+Google Doc Exporter
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=214
+Challenge end date: Sat Jun 18 02:00:00 GMT 2011
+
+Description
+===========
+A client has a need for compliancy reasons to export all google spreadsheets, docs, and presentations. The compliance software requires all documents to be submitted in Microsoft formats (xls, pdf, ppt). This component will output all google docs for a user in these formats and store them on a local drive.
+
+Requirements
+============
+- Create a website page asking the user to log into google and give them the option to export all docs, spreadsheets and presentations for the user. - Google Spreadsheets exported as XLS files - Google Docs as DOC files - Google Presentations as PDF files - Application uses google API and downloads all files. Ideally it converts and then zips all files as one download
